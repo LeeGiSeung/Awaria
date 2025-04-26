@@ -1,0 +1,23 @@
+[KEY]
+Sprite\glassFloor_6
+
+[PATH]
+Sprite\glassFloor_6.sprite
+
+[ATLAS_KEY]
+glassFloor0007
+[ATLAS_PATH]
+Texture\glassFloor0007.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+800, 400
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.000000, 2.000000
+

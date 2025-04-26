@@ -1,0 +1,23 @@
+[KEY]
+Sprite\generator_broken_ing_4
+
+[PATH]
+Sprite\generator_broken_ing_4.sprite
+
+[ATLAS_KEY]
+generator0023
+[ATLAS_PATH]
+Texture\generator0023.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 280
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+2.800000, 1.000000
+

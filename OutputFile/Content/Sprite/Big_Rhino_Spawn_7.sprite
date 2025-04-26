@@ -1,0 +1,23 @@
+[KEY]
+Sprite\Big_Rhino_Spawn_7
+
+[PATH]
+Sprite\Big_Rhino_Spawn_7.sprite
+
+[ATLAS_KEY]
+strigaBigdogoStart0008
+[ATLAS_PATH]
+Texture\strigaBigdogoStart0008.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+328, 356
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.085366, 1.000000
+

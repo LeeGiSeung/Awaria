@@ -1,0 +1,23 @@
+[KEY]
+chararun_1
+
+[PATH]
+Sprite\chararun_1.sprite
+
+[ATLAS_KEY]
+chara0032
+[ATLAS_PATH]
+Texture\chara0032.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.000000, 1.000000
+

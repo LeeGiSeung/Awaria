@@ -1,0 +1,23 @@
+[KEY]
+Sprite\Zmora_Spawn_3
+
+[PATH]
+Sprite\Zmora_Spawn_3.sprite
+
+[ATLAS_KEY]
+zmoraKeyframesRE30004
+[ATLAS_PATH]
+Texture\zmoraKeyframesRE30004.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+128, 240
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.875000, 1.000000
+

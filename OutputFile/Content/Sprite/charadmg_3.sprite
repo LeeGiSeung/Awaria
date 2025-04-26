@@ -1,0 +1,23 @@
+[KEY]
+Sprite\charadmg_3
+
+[PATH]
+Sprite\charadmg_3.sprite
+
+[ATLAS_KEY]
+charaDmg0004
+[ATLAS_PATH]
+Texture\charaDmg0004.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 180
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.800000, 1.000000
+

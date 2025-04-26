@@ -1,0 +1,23 @@
+[KEY]
+Sprite\New_Floor_TileMap_2
+
+[PATH]
+Sprite\New_Floor_TileMap_2.sprite
+
+[ATLAS_KEY]
+sactx-0-1024x512-DXT5-WallAtlas-46ed29f4
+[ATLAS_PATH]
+Texture\sactx-0-1024x512-DXT5-WallAtlas-46ed29f4.png
+
+[LEFT_TOP]
+310, 255
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+-0.151367, -0.302734
+

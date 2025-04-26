@@ -1,0 +1,23 @@
+[KEY]
+charaDeath_5
+
+[PATH]
+Sprite\charaDeath_5.sprite
+
+[ATLAS_KEY]
+charaDeath0008
+[ATLAS_PATH]
+Texture\charaDeath0008.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+880, 600
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.000000, 1.466667
+

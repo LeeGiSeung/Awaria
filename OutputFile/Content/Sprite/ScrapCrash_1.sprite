@@ -1,0 +1,23 @@
+[KEY]
+Sprite\ScrapCrash_1
+
+[PATH]
+Sprite\ScrapCrash_1.sprite
+
+[ATLAS_KEY]
+scrapCrashB0002
+[ATLAS_PATH]
+Texture\scrapCrashB0002.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+156, 156
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.000000, 1.000000
+

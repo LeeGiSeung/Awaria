@@ -1,0 +1,23 @@
+[KEY]
+Sprite\Skul_Ing_Run_4
+
+[PATH]
+Sprite\Skul_Ing_Run_4.sprite
+
+[ATLAS_KEY]
+skelyBoi0008
+[ATLAS_PATH]
+Texture\skelyBoi0008.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+120, 180
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.500000, 1.000000
+

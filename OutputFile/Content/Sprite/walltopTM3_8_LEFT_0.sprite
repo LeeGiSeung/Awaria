@@ -1,0 +1,23 @@
+[KEY]
+Sprite\walltopTM3_8_LEFT_0
+
+[PATH]
+Sprite\walltopTM3_8_LEFT_0.sprite
+
+[ATLAS_KEY]
+WallAtlas
+[ATLAS_PATH]
+Texture\WallAtlas.png
+
+[LEFT_TOP]
+1287, 40
+
+[SLICE]
+100, 50
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+0.006667, 0.009259
+

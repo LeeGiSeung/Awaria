@@ -1,0 +1,23 @@
+[KEY]
+Sprite\Bomb_Skul_ExplosionAttack_1
+
+[PATH]
+Sprite\Bomb_Skul_ExplosionAttack_1.sprite
+
+[ATLAS_KEY]
+superSkull0014
+[ATLAS_PATH]
+Texture\superSkull0014.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+140, 168
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.200000, 1.000000
+

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Scripts\CPlayerScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="Scripts\CCameraMoveScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="Scripts\CMissileScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CScriptMgr.h">
+      <Filter>01. Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="define.h" />
+    <ClInclude Include="CCutSceneScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CGeneratorScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CAparatusScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CZmoraScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CDroneScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CBigRhinoScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CSkulScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CSmallRhinoScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CBombSkulScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossVectorScript.h">
+      <Filter>02. Scripts</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lecture.cpp">
+      <Filter>Default</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Default</Filter>
+    </ClCompile>
+    <ClCompile Include="Scripts\CPlayerScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="Scripts\CCameraMoveScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="Scripts\CMissileScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CScriptMgr.cpp">
+      <Filter>01. Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="CCutSceneScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CGeneratorScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CAparatusScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CZmoraScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CDroneScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CBigRhinoScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CSkulScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CSmallRhinoScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CBombSkulScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossVectorScript.cpp">
+      <Filter>02. Scripts</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="02. Scripts">
+      <UniqueIdentifier>{58fdbf85-10d2-4f88-adb4-f03dd79fa3ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Manager">
+      <UniqueIdentifier>{a0aae85a-ca5a-4a2b-bb91-ee84821961da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Default">
+      <UniqueIdentifier>{ad3799d3-39f2-4568-a3c1-3cb4120b83ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. States">
+      <UniqueIdentifier>{b519df9d-dba6-4012-8b94-32f80da2533a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,23 @@
+[KEY]
+Sprite\electricAttack_B_3
+
+[PATH]
+Sprite\electricAttack_B_3.sprite
+
+[ATLAS_KEY]
+electroAttack0016
+[ATLAS_PATH]
+Texture\electroAttack0016.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+124, 132
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.064516, 1.000000
+

@@ -1,0 +1,23 @@
+[KEY]
+charaIdle_9
+
+[PATH]
+Sprite\charaIdle_9.sprite
+
+[ATLAS_KEY]
+chara0030
+[ATLAS_PATH]
+Texture\chara0030.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.000000, 1.000000
+

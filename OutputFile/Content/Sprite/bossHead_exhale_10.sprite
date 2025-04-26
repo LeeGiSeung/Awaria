@@ -1,0 +1,23 @@
+[KEY]
+Sprite\bossHead_exhale_10
+
+[PATH]
+Sprite\bossHead_exhale_10.sprite
+
+[ATLAS_KEY]
+bossHead_exhale0011
+[ATLAS_PATH]
+Texture\bossHead_exhale0011.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+1200, 500
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.000000, 2.400000
+

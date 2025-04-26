@@ -1,0 +1,23 @@
+[KEY]
+Sprite\walltopTilesmap1_12_Left_0
+
+[PATH]
+Sprite\walltopTilesmap1_12_Left_0.sprite
+
+[ATLAS_KEY]
+WallAtlas
+[ATLAS_PATH]
+Texture\WallAtlas.png
+
+[LEFT_TOP]
+431, 533
+
+[SLICE]
+100, 50
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+-0.220950, -0.306875
+

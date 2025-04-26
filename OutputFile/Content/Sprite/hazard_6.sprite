@@ -1,0 +1,23 @@
+[KEY]
+hazard_6
+
+[PATH]
+Sprite\hazard_6.sprite
+
+[ATLAS_KEY]
+hazard0007
+[ATLAS_PATH]
+Texture\hazard0007.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+124, 256
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+2.064516, 1.000000
+

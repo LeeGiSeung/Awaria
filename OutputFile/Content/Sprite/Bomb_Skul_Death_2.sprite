@@ -1,0 +1,23 @@
+[KEY]
+Sprite\Bomb_Skul_Death_2
+
+[PATH]
+Sprite\Bomb_Skul_Death_2.sprite
+
+[ATLAS_KEY]
+superSkullDeath0003
+[ATLAS_PATH]
+Texture\superSkullDeath0003.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+140, 168
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.200000, 1.000000
+

@@ -1,0 +1,17 @@
+# Visual Studio 관련
+.vs/
+*.user
+*.suo
+*.VC.db
+*.opendb
+
+# 빌드 결과물
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+
+# 기타
+*.log
+*.cache

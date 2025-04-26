@@ -1,0 +1,23 @@
+[KEY]
+Sprite\Boss_SpawnBomb_4
+
+[PATH]
+Sprite\Boss_SpawnBomb_4.sprite
+
+[ATLAS_KEY]
+bossVector0035
+[ATLAS_PATH]
+Texture\bossVector0035.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+1028, 868
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.000000, 1.184332
+

@@ -1,0 +1,23 @@
+[KEY]
+Sprite\floortopTMRIGHT_14
+
+[PATH]
+Sprite\floortopTMRIGHT_14.sprite
+
+[ATLAS_KEY]
+floortopTM1
+[ATLAS_PATH]
+Texture\floortopTM1.png
+
+[LEFT_TOP]
+1300, 200
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+-0.071429, -0.333333
+

@@ -1,0 +1,23 @@
+[KEY]
+pro_aparatus_0
+
+[PATH]
+Sprite\pro_aparatus_0.sprite
+
+[ATLAS_KEY]
+aparatusBig0001
+[ATLAS_PATH]
+Texture\aparatusBig0001.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+200, 220
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.100000, 1.000000
+

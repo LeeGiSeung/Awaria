@@ -1,0 +1,23 @@
+[KEY]
+Sprite\Small_Rhino_Spawn_5
+
+[PATH]
+Sprite\Small_Rhino_Spawn_5.sprite
+
+[ATLAS_KEY]
+wendogoKeyframes0006
+[ATLAS_PATH]
+Texture\wendogoKeyframes0006.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+120, 160
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.333333, 1.000000
+

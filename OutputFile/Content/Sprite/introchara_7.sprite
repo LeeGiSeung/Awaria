@@ -1,0 +1,23 @@
+[KEY]
+introchara_7
+
+[PATH]
+Sprite\introchara_7.sprite
+
+[ATLAS_KEY]
+introChara7
+[ATLAS_PATH]
+Texture\introChara7.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+1280, 720
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.000000, 1.777778
+

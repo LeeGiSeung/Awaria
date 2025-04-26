@@ -1,0 +1,23 @@
+[KEY]
+Sprite\floortilesprite_6
+
+[PATH]
+Sprite\floortilesprite_6.sprite
+
+[ATLAS_KEY]
+WallAtlas
+[ATLAS_PATH]
+Texture\WallAtlas.png
+
+[LEFT_TOP]
+223, 270
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+-0.082468, -0.114539
+

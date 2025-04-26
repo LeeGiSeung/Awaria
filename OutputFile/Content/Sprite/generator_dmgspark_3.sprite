@@ -1,0 +1,23 @@
+[KEY]
+Sprite\generator_dmgspark_3
+
+[PATH]
+Sprite\generator_dmgspark_3.sprite
+
+[ATLAS_KEY]
+genDmgBolt0004
+[ATLAS_PATH]
+Texture\genDmgBolt0004.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+240, 300
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.250000, 1.000000
+

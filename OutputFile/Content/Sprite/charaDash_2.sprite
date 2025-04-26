@@ -1,0 +1,23 @@
+[KEY]
+charaDash_2
+
+[PATH]
+Sprite\charaDash_2.sprite
+
+[ATLAS_KEY]
+charaDash0003
+[ATLAS_PATH]
+Texture\charaDash0003.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.000000, 1.000000
+

@@ -1,0 +1,23 @@
+[KEY]
+Sprite\gearsprite_end_0
+
+[PATH]
+Sprite\gearsprite_end_0.sprite
+
+[ATLAS_KEY]
+aparatusSmall0022
+[ATLAS_PATH]
+Texture\aparatusSmall0022.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 200
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+2.000000, 1.000000
+

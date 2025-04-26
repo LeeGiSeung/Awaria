@@ -1,0 +1,23 @@
+[KEY]
+Sprite\spart_type_B_0
+
+[PATH]
+Sprite\spart_type_B_0.sprite
+
+[ATLAS_KEY]
+sparkB0001
+[ATLAS_PATH]
+Texture\sparkB0001.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+240, 320
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.333333, 1.000000
+

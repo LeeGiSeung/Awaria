@@ -1,0 +1,20 @@
+[KEY]
+charaRunBig_3
+
+[PATH]
+Sprite\charaRunBig_3.sprite
+
+[ATLAS_KEY]
+chara0034
+[ATLAS_PATH]
+Texture\chara0034.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+

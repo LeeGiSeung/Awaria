@@ -1,0 +1,23 @@
+[KEY]
+Sprite\floorbotTilesmap1_4Right_4
+
+[PATH]
+Sprite\floorbotTilesmap1_4Right_4.sprite
+
+[ATLAS_KEY]
+WallAtlas
+[ATLAS_PATH]
+Texture\WallAtlas.png
+
+[LEFT_TOP]
+981, 976
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+-0.583333, -0.810185
+

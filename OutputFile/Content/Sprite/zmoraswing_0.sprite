@@ -1,0 +1,23 @@
+[KEY]
+zmoraswing_0
+
+[PATH]
+Sprite\zmoraswing_0.sprite
+
+[ATLAS_KEY]
+zmoraKeyframes0001
+[ATLAS_PATH]
+Texture\zmoraKeyframes0001.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+120, 240
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+2.000000, 1.000000
+

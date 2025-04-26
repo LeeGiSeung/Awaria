@@ -1,0 +1,23 @@
+[KEY]
+Sprite\Small_Rhino_Death_1
+
+[PATH]
+Sprite\Small_Rhino_Death_1.sprite
+
+[ATLAS_KEY]
+exploSmol0012
+[ATLAS_PATH]
+Texture\exploSmol0012.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+176, 256
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.454545, 1.000000
+

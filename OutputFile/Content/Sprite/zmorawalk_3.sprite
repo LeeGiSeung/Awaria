@@ -1,0 +1,23 @@
+[KEY]
+zmorawalk_3
+
+[PATH]
+Sprite\zmorawalk_3.sprite
+
+[ATLAS_KEY]
+zmoraKeyframesWalk0004
+[ATLAS_PATH]
+Texture\zmoraKeyframesWalk0004.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+128, 152
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.187500, 1.000000
+

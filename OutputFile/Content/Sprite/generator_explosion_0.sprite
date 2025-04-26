@@ -1,0 +1,23 @@
+[KEY]
+Sprite\generator_explosion_0
+
+[PATH]
+Sprite\generator_explosion_0.sprite
+
+[ATLAS_KEY]
+genDmg0001
+[ATLAS_PATH]
+Texture\genDmg0001.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+500, 440
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.000000, 1.136364
+

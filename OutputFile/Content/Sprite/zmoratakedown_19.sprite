@@ -1,0 +1,23 @@
+[KEY]
+zmoratakedown_19
+
+[PATH]
+Sprite\zmoratakedown_19.sprite
+
+[ATLAS_KEY]
+zmoraKeyframesRE30052
+[ATLAS_PATH]
+Texture\zmoraKeyframesRE30052.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+128, 240
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.875000, 1.000000
+

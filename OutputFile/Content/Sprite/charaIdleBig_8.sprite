@@ -1,0 +1,20 @@
+[KEY]
+charaIdleBig_8
+
+[PATH]
+Sprite\charaIdleBig_8.sprite
+
+[ATLAS_KEY]
+chara0029
+[ATLAS_PATH]
+Texture\chara0029.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 100
+
+[OFFSET]
+0, 0
+

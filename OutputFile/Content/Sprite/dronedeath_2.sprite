@@ -1,0 +1,23 @@
+[KEY]
+Sprite\dronedeath_2
+
+[PATH]
+Sprite\dronedeath_2.sprite
+
+[ATLAS_KEY]
+droneDeath0003
+[ATLAS_PATH]
+Texture\droneDeath0003.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+220, 200
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.000000, 1.100000
+

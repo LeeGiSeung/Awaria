@@ -1,0 +1,23 @@
+[KEY]
+Sprite\machined_coppersprite_end_1
+
+[PATH]
+Sprite\machined_coppersprite_end_1.sprite
+
+[ATLAS_KEY]
+aparatusBig0018
+[ATLAS_PATH]
+Texture\aparatusBig0018.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+200, 220
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.100000, 1.000000
+

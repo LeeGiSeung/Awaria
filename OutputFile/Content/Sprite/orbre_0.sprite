@@ -1,0 +1,23 @@
+[KEY]
+orbre_0
+
+[PATH]
+Sprite\orbre_0.sprite
+
+[ATLAS_KEY]
+orbRE0001
+[ATLAS_PATH]
+Texture\orbRE0001.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 140
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.400000, 1.000000
+

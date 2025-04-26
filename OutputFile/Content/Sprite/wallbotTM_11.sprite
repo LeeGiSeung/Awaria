@@ -1,0 +1,23 @@
+[KEY]
+Sprite\wallbotTM_11
+
+[PATH]
+Sprite\wallbotTM_11.sprite
+
+[ATLAS_KEY]
+wallbotTM2
+[ATLAS_PATH]
+Texture\wallbotTM2.png
+
+[LEFT_TOP]
+1100, 0
+
+[SLICE]
+100, 150
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+0.100000, 0.500000
+

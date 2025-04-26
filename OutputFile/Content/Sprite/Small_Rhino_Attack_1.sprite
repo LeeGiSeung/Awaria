@@ -1,0 +1,23 @@
+[KEY]
+Sprite\Small_Rhino_Attack_1
+
+[PATH]
+Sprite\Small_Rhino_Attack_1.sprite
+
+[ATLAS_KEY]
+wendogoKeyframes0019
+[ATLAS_PATH]
+Texture\wendogoKeyframes0019.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+120, 160
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.333333, 1.000000
+

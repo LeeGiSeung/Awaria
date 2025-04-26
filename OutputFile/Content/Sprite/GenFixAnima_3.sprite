@@ -1,0 +1,23 @@
+[KEY]
+Sprite\GenFixAnima_3
+
+[PATH]
+Sprite\GenFixAnima_3.sprite
+
+[ATLAS_KEY]
+genFixAnim0004
+[ATLAS_PATH]
+Texture\genFixAnim0004.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+200, 340
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.700000, 1.000000
+

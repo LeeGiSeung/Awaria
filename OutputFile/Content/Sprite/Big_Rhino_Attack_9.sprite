@@ -1,0 +1,23 @@
+[KEY]
+Sprite\Big_Rhino_Attack_9.sprite
+
+[PATH]
+Sprite\Big_Rhino_Attack_9.sprite
+
+[ATLAS_KEY]
+strigaBigdogoV20024
+[ATLAS_PATH]
+Texture\strigaBigdogoV20024.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+328, 232
+
+[OFFSET]
+-24, 7
+
+[BACKGROUND]
+1.000000, 1.413793
+

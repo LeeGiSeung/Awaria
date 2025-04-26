@@ -1,0 +1,23 @@
+[KEY]
+Sprite\SpawnSkul_5
+
+[PATH]
+Sprite\SpawnSkul_5.sprite
+
+[ATLAS_KEY]
+bossVector0023
+[ATLAS_PATH]
+Texture\bossVector0023.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+1028, 868
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.000000, 1.184332
+

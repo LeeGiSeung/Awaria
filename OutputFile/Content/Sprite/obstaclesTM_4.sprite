@@ -1,0 +1,23 @@
+[KEY]
+Sprite\obstaclesTM_4
+
+[PATH]
+Sprite\obstaclesTM_4.sprite
+
+[ATLAS_KEY]
+obstaclesTM1
+[ATLAS_PATH]
+Texture\obstaclesTM1.png
+
+[LEFT_TOP]
+400, 0
+
+[SLICE]
+100, 268
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+0.191429, 1.000000
+

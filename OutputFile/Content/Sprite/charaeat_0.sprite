@@ -1,0 +1,23 @@
+[KEY]
+Sprite\charaeat_0
+
+[PATH]
+Sprite\charaeat_0.sprite
+
+[ATLAS_KEY]
+charaEat0001
+[ATLAS_PATH]
+Texture\charaEat0001.png
+
+[LEFT_TOP]
+0, 0
+
+[SLICE]
+100, 140
+
+[OFFSET]
+0, 0
+
+[BACKGROUND]
+1.400000, 1.000000
+
