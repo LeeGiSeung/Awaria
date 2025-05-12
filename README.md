@@ -1,9 +1,14 @@
-2D Awaria 모작입니다.
+# 🎮 Awaria Project
 
-아래 노션에서 자세한 설명을 확인 하실 수 있습니다. [https://www.notion.so/Hell-Taker-122f3c6764898062afa1d420c84f9ee6](https://far-seagull-e93.notion.site/Awaria-1c3f3c676489804a8c19de5a49d240cc)
+## 📽 실행 영상
+### ▶ Awaria Editor
+[![Awaria Editor](https://img.youtube.com/vi/AlBSUnGAAeQ/hqdefault.jpg)](https://www.youtube.com/watch?v=AlBSUnGAAeQ)
 
-아래 유튜브 채널에서 플레이 영상 확인 하실 수 있습니다.
+### ▶ Awaria Play
+[![Awaria Play](https://img.youtube.com/vi/lEtDt9RRUls/hqdefault.jpg)](https://www.youtube.com/watch?v=lEtDt9RRUls)
 
-ImGui Tool : https://www.youtube.com/watch?v=AlBSUnGAAeQ
+## 📝 Notion 정리 문서
+👉 [Awaria Notion](https://far-seagull-e93.notion.site/Awaria-1c3f3c676489804a8c19de5a49d240cc)
 
-Game Play : https://www.youtube.com/watch?v=HWHuOxMEuj0
+## 🎮 게임 플레이 스크린샷
+![Awaria 플레이](images/AwariaPng.png)
